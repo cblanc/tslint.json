@@ -1,0 +1,5 @@
+{
+  "extends": "@cablanchard/tsconfig",
+  "compilerOptions": { "resolveJsonModule": true },
+  "files": ["./tslint.json"]
+}
