@@ -16,6 +16,16 @@ In `tslint.json`
 }
 ```
 
+In `package.json`
+
+```json
+{
+  "scripts": {
+    "lint": "./node_modules/.bin/tslint --project tsconfig.json -c tslint.json"
+  }
+}
+```
+
 ## Licence
 
 MIT
