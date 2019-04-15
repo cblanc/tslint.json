@@ -27,7 +27,7 @@
   ],
   "devDependencies": {
     "@cablanchard/tsconfig": "0.0.1",
-    "prettier": "~1.16.3",
+    "prettier": "~1.17.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.1"
   },
